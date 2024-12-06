@@ -1,3 +1,6 @@
+# remove txt files as per Advent of Code best practices
+.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
